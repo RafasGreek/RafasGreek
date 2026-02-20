@@ -1,6 +1,6 @@
 ## Hey there, I'm Rafael 👋
 
-Computer Science student from Greece, passionate about software engineering, problem solving and system design.
+I am a Computer science student from Greece, passionate about software engineering, problem solving and system design.
 <br>
 I enjoy building impactful projects and understanding how they work under the hood.
 
