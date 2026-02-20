@@ -2,7 +2,7 @@
 
 Computer Science student from Greece, passionate about software engineering, problem solving and system design.
 <br>
-I enjoy building impactful projects and understanding how they work under the hood
+I enjoy building impactful projects and understanding how they work under the hood.
 
 ## My Skills
 **Languages**:
